@@ -1,0 +1,6 @@
+This is a doc stating step by step development of this repository.
+
+1. Collect proper data of all the IPL tournaments of tenure  2008-2022.
+    * Relevant sources - Kaggle, Google Dataset
+2. Data cleaning
+3. Data Visualization for IPL 2022
